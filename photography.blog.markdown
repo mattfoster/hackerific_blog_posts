@@ -1,0 +1,17 @@
+Title: Thoughts on Photography
+Format: markdown
+Tags: General, Thoughts, Photography
+
+For a while now I've been thinking about photography -- about what it is, and how it works on a personal level. I've also been ruminating on what exactly a photo is -- not physically -- but what they mean, and how they operate. I'm sure there's already a lot of established technical research about imaging, and our perceptions, but I wanted to write a post about it partly as a means of clarifying my ideas, and partly because I'm interested in knowing whether other people have similar thoughts.
+
+First of all, I think it's important to realise that cameras will never, ever compete with our sense of vision. OK, so maybe one day they could replace our eyes, (and there are some people with electronic implants), but our perception of images is so much *more* than just the sensations caused by specific wavelengths exciting the rods and cones on our retinas. There's a large amount of brain in there as well, and even our eyes don't work how you might expect. Consider for a moment the way your eyes move when you're looking at something; even if you think you're looking at it directly, and sensing it as a whole, you aren't. Have a look at the term [saccade](http://en.wikipedia.org/wiki/Saccade "Saccade - Wikipedia, the free encyclopedia") on Wikipedia, and you'll see that not only do we view things by moving our eyes across the object we're viewing, but that we actually do it in extremely rapid, even jerky movements. We also only really pay attention to the most salient of objects, allowing our brains to fill in the rest. I've made a short movie to illustrate what this actually means:
+
+Whilst there has been recent work on using the way our eyes work to help improve signal processing (see for example Maria Petrou's work on Reverse engineering the human visual system -- which I can't find at the moment) by making use of the way our eyes work, there will always be a fundamental difference between us and machines -- we can make cameras see, but we won't ever be able to mimic the filters imposed by our perception, or, to put it more bluntly, we can't make cameras *feel*.
+
+Think for a moment, until your mind presents you with an image. It probably didn't take you long, and you probably didn't *see* it in the same way as when you originally saw it. If you're anything like me (which I suspect you *are*), then you probably felt it more than you actually saw it. Imagine an image of a tree, being blown gently in the breeze, and whether or not you can see an image of a tree, you're more likely to recall the sense of the place than merely the image -- the warm breeze, the sound of nearby birds and the warmth of the sun on your face. 
+
+What I'm trying to get at is this -- an image is so much more than a representation of a scene. How well exposed, framed and composed your picture of a tree in the breeze during a spring day, it doesn't mean anything as an image. It needs to be evocative in order to work -- I'm trying hard to remember this when I take photos, and I'm hoping it'll help me put them in context.
+
+It also means that post processing needn't just involve cleaning up the exposure and dust spots, but that altering the picture in more extreme ways doesn't actually matter -- provided the feeling is there. The colours, saturation and white balance are all poorly performing emulators of our brain, so do whatever feels right, and the rest should drop into place.
+
+My apologies to anyone who knows me for any undue embarrassment :-)

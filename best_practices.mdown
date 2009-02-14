@@ -1,0 +1,15 @@
+Best Practices and Patterns 
+---------------------------
+
+One of the things I've noticed during the course of my PhD is that there is a gulf between knowing how to do something, and knowing how to do in a way that's acceptable to others. I think that this gulf is one of *best practices*. 
+
+If that's not clear, then let me illustrate it with an example. I believe that almost anyone can do research which is suitable for publication (honestly, anyone!), but the actual process of publication is far more difficult (I'm speaking as someone who without a huge amount of experience in this area). 
+
+To have work published, you must follow a complex sequence of both explicit and implicit rules. These rules represent the best practices of scientific writing, and without knowing how to follow them, even if you don't know what *they* are, you will have a hard time getting things published. 
+
+This process boils down to 'learning how to play the game' or pick up the idioms, and seems to generalise to almost every other problem domain -- at least those that I've come across. 
+
+Does my description above sound familiar to you? I thought so. Maybe you've tried to commit to a well established open-source project; you probably had to study the coding style, look at how tests were implemented, maybe even learn how they use SCM. 
+
+In my experience, a normal part of any learning process, perhaps even more important that the initial, and traditional *learning* stage, is finding out how things actually get done. I'm hoping that by building exploring this kind of issue into my learning processes, I'll be able to get to a useful state, one where my output is usable by others, quicker, and perhaps not have to unlearn things bad habits which I picked up when I started out.
+

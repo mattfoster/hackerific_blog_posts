@@ -1,0 +1,16 @@
+Type: Blog Post (Markdown)
+Blog: my-mili.eu
+Link: http://blog.my-mili.eu/articles/2007/10/18/welcome
+Post: 4
+Title: welcome
+Keywords: 
+Format: none
+Date: 2007-10-18 15:48:18 +0100
+Pings: On
+Comments: On
+
+Welcome to hackerific. A blog on hacking, scripting and cool technologies. 
+
+My aim for this blog is to demonstrate ways of tying together existing technologies to do _cool stuff_. The type of stuff that you can do without spending weeks and weeks learning a bucket load of specific crazy syntax, or arcane languages. A lot of this will be hacking _around_ things, and combining various small elements to get things done. Primarily I'm a UNIX geek, so a lot of the time, things I post here will have a UNIX bent. My hope is that people will find what I have to say interesting, and not just plain dumb, and that they won't be afraid to leave feedback. After all, blogs are supposed to be a two way thing, aren't they?!
+
+You can view static (well radiant based) site at "my-mili.eu/matt":http://my-mili.eu/matt.
