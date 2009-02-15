@@ -1,7 +1,7 @@
 Best Practices and Patterns 
 ---------------------------
 
-<a href="http://files.my-mili.eu/Best_Practices.m4a">Listen to this post<a/>
+<a href="http://files.my-mili.eu/Best_Practices.m4a">Listen to this post</a>
 
 
 	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="Anjuna_Episode_Player" width="100%" height="25" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
